@@ -1,0 +1,112 @@
+#flex-horizontal {
+  display: flex;
+  justify-content: center;
+}
+
+#flex-vertical {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+.drum {
+  position: absolute;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+#kick {
+  height: 370px;
+  width: 100px;
+  margin-left: 420px;
+  margin-top: -380px
+}
+
+#snare {
+  width: 200px;
+  height: 180px;
+  margin-top: -350px;
+  margin-left: 220px;
+}
+
+#hats {
+  height: 113px;
+  width: 207px;
+  margin-top: -440px;
+  margin-left: 35px;
+}
+
+#crash {
+  height: 113px;
+  width: 207px;
+  margin-top: -600px;
+  margin-left: 115px;
+}
+
+#lt {
+  height: 269px;
+  width: 209px;
+  margin-left: 520px;
+  margin-top: -365px;
+}
+
+#ht {
+  height: 140px;
+  width: 160px;
+  margin-top: -490px;
+  margin-left: 275px;
+}
+
+#ride {
+  height: 162px;
+  width: 253px;
+  margin-left: 480px;
+  margin-top: -545px;
+}
+
+.keys {
+  font-family: Helvetica;
+  font-size: 40px;
+  position:absolute;
+}
+
+#k-kick {
+  color: white;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+#k-snare {
+  margin-top: -35px;
+  margin-left: 73px;
+}
+
+#k-hats {
+  color: white;
+  margin-left: 75px;
+  margin-top: -45px;
+}
+
+#k-crash {
+  color: white;
+  margin-left: 95px;
+  margin-top: -50px;
+}
+
+#k-ride {
+  color: white;
+  margin-left: 95px;
+  margin-top: -20px;
+}
+
+#k-ht {
+  margin-left: 50px;
+  margin-top: -50px;
+}
+
+#k-lt {
+  margin-left: 80px;
+  margin-top: -30px;
+}
