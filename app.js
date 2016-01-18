@@ -1,12 +1,12 @@
 $(document).ready(function(){
 
-  createjs.Sound.registerSound("audio/Kick.wav", "kick");
-  createjs.Sound.registerSound("audio/Snaredrum.wav", "snare");
-  createjs.Sound.registerSound("audio/Hats.wav", "hats");
-  createjs.Sound.registerSound("audio/Crash.wav", "crash");
-  createjs.Sound.registerSound("audio/Ride.wav", "ride");
-  createjs.Sound.registerSound("audio/HT.wav", "ht");
-  createjs.Sound.registerSound("audio/LT.wav", "lt");
+  createjs.Sound.registerSound("audio/Kick.mp3", "kick");
+  createjs.Sound.registerSound("audio/Snaredrum.mp3", "snare");
+  createjs.Sound.registerSound("audio/Hats.mp3", "hats");
+  createjs.Sound.registerSound("audio/Crash.mp3", "crash");
+  createjs.Sound.registerSound("audio/Ride.mp3", "ride");
+  createjs.Sound.registerSound("audio/HT.mp3", "ht");
+  createjs.Sound.registerSound("audio/LT.mp3", "lt");
 
 })
 
